@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+.heading{
+    color: blueviolet;
+}
+#ra{
+    font-size: 30px;
+}
